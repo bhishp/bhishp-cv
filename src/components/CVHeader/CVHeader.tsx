@@ -23,7 +23,7 @@ const CVHeader: React.FunctionComponent<CVHeaderProps> = ({
   headshot = 'https://placehold.it/600x600'
 }) => (
   <header className="CVHeader">
-    <div className="CVHeader-corner-box"><p>View this CV Online at: <a href="https://github.com/bhishp/bhishp-cv">https://github.com/bhishp/bhishp-cv</a></p></div>
+    <div className="CVHeader-corner-box"><p>This CV is made in React, view online at: <a href="https://github.com/bhishp/bhishp-cv">https://github.com/bhishp/bhishp-cv</a></p></div>
     <div className="CVHeader-headshot-wrapper">
       <img
         className="CVHeader-headshot"
