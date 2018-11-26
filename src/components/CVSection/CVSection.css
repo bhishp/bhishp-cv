@@ -1,0 +1,30 @@
+@value shared: "../../style/shared.css";
+@value outerspace, havelockblue, quillgray, white, headingfont from shared;
+
+.Section {
+  padding-top: 10px;
+}
+
+.Section-header {
+  display: flex;
+  align-items: center;
+}
+.Section-heading {
+  width: 33%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 0;
+  /*background-color: quillgray;*/
+}
+.Section-heading h2 {
+  font-family: headingfont;
+  text-transform: uppercase;
+  margin: 0;
+}
+.Section-divider {
+  width: 63%;
+  margin: 0 auto;
+  border: 0;
+  border-top: 2px solid black;
+}

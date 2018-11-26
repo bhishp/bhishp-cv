@@ -1,0 +1,15 @@
+.TechIcon:hover {
+  animation: CVIcon-spin 0.9s ease-in-out;
+}
+
+@keyframes TechIcon-spin {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.5) translateY(-10px);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

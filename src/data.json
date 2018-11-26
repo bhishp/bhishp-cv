@@ -1,0 +1,123 @@
+{
+  "forename": "Bhishma",
+  "surname": "Patel",
+  "profession": "Software Developer",
+  "number": "+48-1516-2342",
+  "email": "Coming soon...",
+  "sections": {
+    "experience": {
+      "heading": "Experience",
+      "icon": {
+        "name": "briefcase"
+      },
+      "articles": [
+        {
+          "heading": "Medstars",
+          "info": "Medstars.co.uk is a start-up based in Birmingham whose aim is to provide an online and localised directory of private medical practitioners. The brief of this project was to design and build a working prototype from scratch, with architecture and framework decisions left to myself and a fellow freelancer.",
+          "footnotes": "Notable Tech: JS/ES6, Node, Meteor, React, React Storybook, React Router, SASS",
+          "techIcons": [
+            "react",
+            "meteor",
+            "node"
+          ],
+          "aside": {
+            "title": "Freelance Fullstack Developer",
+            "period": "Apr 2017 - Aug 2017"
+          }
+        },
+        {
+          "heading": "School of Code",
+          "info": "School of Code is a learn-to-code startup I founded with a friend from University that aims to diversify technology by changing the way that coding is taught. The SoC has built a prototype of an online coding platform which teaches coding through an interactive game, and has reached over 100,000 learners through partnering with Code.org - try it yourself at schoolofcode.io.",
+          "footnotes": "Notable Tech: JS/ES6, React, Redux, Socket-io, Webpack, CSS Modules, Node, AWS, Docker, Redis, MongoDB",
+          "techIcons": [
+            "react",
+            "redux",
+            "node",
+            "docker",
+            "aws"
+          ],
+          "aside": {
+            "title": "Co-Founder and CTO",
+            "period": "Sep 2015 - Apr 2017"
+          }
+        },
+        {
+          "heading": "Credit Suisse",
+          "info": "Working at Credit Suisse was my first role upon graduating from University and involved rotations amongst two different teams, the AES Algorithmic Trading team, and SDP (Single Dealer Platform) team.\n\nAES is an algorithmic trading platform that operates in various markets such as the LSE, NYSE and global  futures exchanges. This role involved representing complex trading models in a proprietary C# codebase.\n\nSDP was a web-based trading platform developed by Credit Suisse to enable its clients to trade a variety of different asset classes, predominantly FX. The frontend was built in DotNet/Silverlight, connected to a Java/SpringFramework backend.",
+          "footnotes": "Notable Tech: C#/DotNet, Java, Spring Framework, SQL",
+          "techIcons": [
+            "csharp",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "aside": {
+            "title": "Graduate Software Developer",
+            "period": "Sep 2012 - Sep 2015"
+          }
+        }
+      ]
+    },
+    "education": {
+      "heading": "Education",
+      "icon" : {
+        "name": "graduation-cap"
+      },
+      "articles": [
+        {
+          "heading": "BSc Computer Science First Class",
+          "info": "Four year course (including a year working in industry). Modules included were: OOP in Java, Functional Programming with Haskell, Language and Logic, Languages and Compilers.",
+          "techIcons": ["java", "haskell"],
+          "aside": {
+            "title": "University of Birmingham",
+            "period": "Sep 2008 - July 2012"
+          }
+        }
+      ]
+    },
+    "aboutMe": {
+      "heading": "About Me",
+      "icon": {
+        "name": "user-alt"
+      },
+      "articles": [
+        {
+          "heading": "Keen Traveller",
+          "info": "Have solo travelled around Asia, including China, Cambodia and Thailand.\nCompleted a 9,500 mile RV roadtrip across the United States in 2017.",
+          "aside": {
+            "icon": {
+              "name": "globe-americas"
+            }
+          }
+        },
+        {
+          "heading": "Music and Festivals",
+          "info": "Regular festival goer, including Glastonbury and Tomorrowland. Attempting to learn some live coding, playing with Tidalcycles and Sonic Pi.",
+          "aside": {
+            "icon": {
+              "name": "music"
+            }
+          }
+        },
+        {
+          "heading": "Sports and Fitness",
+          "info": "Regular 5-aside footballer and badminton player. A keen hiker, having hiked US National Parks such as Yellowstone and Bryce Canyon.",
+          "aside": {
+            "icon": {
+              "name": "running"
+            }
+          }
+        },
+        {
+          "heading": "Games and Games Development",
+          "info": "Casual gamer. Spent 1 week beta games testing a Lionhead Studios in 2005.",
+          "aside": {
+            "icon": {
+              "name": "gamepad"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

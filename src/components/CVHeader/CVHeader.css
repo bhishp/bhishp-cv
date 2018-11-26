@@ -1,0 +1,70 @@
+@value shared: "../../style/shared.css";
+@value outerspace, havelockblue, quillgray, white, scorpion, headingfont from shared;
+
+.CVHeader {
+  display: flex;
+  /*align-items: flex-start;*/
+  align-items: center;
+  position: relative;
+  background-color: outerspace;
+  height: 180px;
+}
+
+.CVHeader-headshot-wrapper {
+  align-self: center;
+  width: 25%;
+  text-align: center;
+}
+.CVHeader-headshot {
+  border-radius: 50%;
+  width: 50%;
+  min-width: 100px;
+  max-width: 115px;
+  animation: CVHeader-headshot-spin 1 20s linear;
+}
+
+.CVHeader-headings {
+  width: 45%;
+  font-family: headingfont;
+  text-transform: uppercase;
+}
+.CVHeader-headings * {
+  margin: 0;
+}
+
+.CVHeader-name {
+  font-size: 50px;
+  margin-bottom: -3px;
+}
+.CVHeader-forename {
+  color: white;
+}
+.CVHeader-surname {
+  color: havelockblue;
+  margin-left: 5px;
+}
+
+.CVHeader-profession {
+  font-size: 29px;
+  color: white;
+}
+.CVHeader-profession span:nth-child(even) {
+  color: havelockblue;
+  margin-left: 5px;
+}
+
+.CVHeader-personal-information {
+  color: white;
+  width: 30%;
+  list-style-type: none;
+  padding-left: 0;
+}
+.CVHeader-personal-information a:link, a:visited, a:hover, a:active {
+  color: white;
+  text-decoration: none;
+}
+
+@keyframes CVHeader-headshot-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}

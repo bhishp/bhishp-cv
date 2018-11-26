@@ -1,0 +1,12 @@
+@value white: #fff;
+/* Borders and text */
+@value outerspace: #2c3235;
+@value havelockblue: #45A2DA;
+@value quillgray: #e0e0df;
+@value mineshaft: #222222;
+@value scorpion: #595959;
+@value alto: #d7d7d7;
+
+@value headingfont: 'Bebas', courier, 'Roboto', sans-serif;
+
+/*@value gutterwidth: 10%;*/
