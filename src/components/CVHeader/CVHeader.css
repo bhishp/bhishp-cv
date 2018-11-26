@@ -2,12 +2,19 @@
 @value outerspace, havelockblue, quillgray, white, scorpion, headingfont from shared;
 
 .CVHeader {
+  color: white;
   display: flex;
-  /*align-items: flex-start;*/
   align-items: center;
   position: relative;
   background-color: outerspace;
-  height: 180px;
+  height: 200px;
+}
+
+.CVHeader-corner-box {
+  position: absolute;
+  top: -4px;
+  right: 13.5px;
+  font-size: 12px;
 }
 
 .CVHeader-headshot-wrapper {
@@ -20,7 +27,7 @@
   width: 50%;
   min-width: 100px;
   max-width: 115px;
-  animation: CVHeader-headshot-spin 1 20s linear;
+  animation: CVHeader-headshot-spin infinite 20s linear;
 }
 
 .CVHeader-headings {

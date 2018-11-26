@@ -27,7 +27,9 @@ const App: React.FunctionComponent = () => (
         <CVSection {...education} />
         <CVSection {...aboutMe} />
       </div>
-      <footer className="CVFooter" />
+      <footer className="CVFooter">
+        <span>Bebas font courtesy of: <a href="http://bebasfont.com/">http://bebasfont.com/</a></span>
+      </footer>
     </div>
   </div>
 );
