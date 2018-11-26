@@ -1,7 +1,3 @@
 # bhishp-cv
 
-bhishp's cv
-
-Created in ...
-
-See it live at: www.gh-pages.com/...
+See it live at: https://bhishp.github.io/bhishp-cv/
