@@ -11,7 +11,10 @@ export enum TechIcon {
   JAVA = 'java',
   SPRING = 'spring',
   SQL = 'sql',
-  HASKELL = 'haskell'
+  HASKELL = 'haskell',
+  REDUX_OBSERVABLES = 'redux-observables',
+  SWAGGER = 'swagger',
+  AWS_LAMBDA = 'aws-lambda',
 }
 
 export interface Data {

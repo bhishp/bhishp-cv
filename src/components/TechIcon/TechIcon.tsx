@@ -14,6 +14,9 @@ import springIcon from './img/spring.png';
 import sqlIcon from './img/sql-icon.png';
 import javaIcon from './img/java-logo.png';
 import haskellIcon from './img/haskell.png';
+import reduxObservablesIcon from './img/redux-observables.png';
+import swaggerIcon from './img/swagger-logo.png';
+import lambdaIcon from './img/aws-lambda.png';
 
 const TechIconMap = {
   [TechIconType.REACT]: reactIcon,
@@ -26,7 +29,10 @@ const TechIconMap = {
   [TechIconType.JAVA]:  javaIcon,
   [TechIconType.SPRING]:  springIcon,
   [TechIconType.SQL]:  sqlIcon,
-  [TechIconType.HASKELL]:  haskellIcon
+  [TechIconType.HASKELL]:  haskellIcon,
+  [TechIconType.REDUX_OBSERVABLES]:  reduxObservablesIcon,
+  [TechIconType.SWAGGER]:  swaggerIcon,
+  [TechIconType.AWS_LAMBDA]:  lambdaIcon
 };
 
 export interface TechIconProps {
