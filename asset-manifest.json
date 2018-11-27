@@ -1,9 +1,9 @@
 {
-  "main.css": "/bhishp-cv/static/css/main.41ef1fa7.chunk.css",
-  "main.js": "/bhishp-cv/static/js/main.7f807347.chunk.js",
-  "main.js.map": "/bhishp-cv/static/js/main.7f807347.chunk.js.map",
-  "static/js/1.c20b5e1e.chunk.js": "/bhishp-cv/static/js/1.c20b5e1e.chunk.js",
-  "static/js/1.c20b5e1e.chunk.js.map": "/bhishp-cv/static/js/1.c20b5e1e.chunk.js.map",
+  "main.css": "/bhishp-cv/static/css/main.ddba478b.chunk.css",
+  "main.js": "/bhishp-cv/static/js/main.ea7759c2.chunk.js",
+  "main.js.map": "/bhishp-cv/static/js/main.ea7759c2.chunk.js.map",
+  "static/js/1.0a04c071.chunk.js": "/bhishp-cv/static/js/1.0a04c071.chunk.js",
+  "static/js/1.0a04c071.chunk.js.map": "/bhishp-cv/static/js/1.0a04c071.chunk.js.map",
   "runtime~main.js": "/bhishp-cv/static/js/runtime~main.4b929f44.js",
   "runtime~main.js.map": "/bhishp-cv/static/js/runtime~main.4b929f44.js.map",
   "static/media/react-icon.png": "/bhishp-cv/static/media/react-icon.053be053.png",
@@ -19,8 +19,8 @@
   "static/media/haskell.png": "/bhishp-cv/static/media/haskell.9d62535a.png",
   "static/media/bhish-superman.png": "/bhishp-cv/static/media/bhish-superman.51092ddc.png",
   "static/media/index.css": "/bhishp-cv/static/media/BEBAS.7d3d597a.ttf",
-  "static/css/main.41ef1fa7.chunk.css.map": "/bhishp-cv/static/css/main.41ef1fa7.chunk.css.map",
+  "static/css/main.ddba478b.chunk.css.map": "/bhishp-cv/static/css/main.ddba478b.chunk.css.map",
   "index.html": "/bhishp-cv/index.html",
-  "precache-manifest.ec7a03946f02ef1d9e66d8914f9f926c.js": "/bhishp-cv/precache-manifest.ec7a03946f02ef1d9e66d8914f9f926c.js",
+  "precache-manifest.6fb4688a48355072c79c819a82c7c941.js": "/bhishp-cv/precache-manifest.6fb4688a48355072c79c819a82c7c941.js",
   "service-worker.js": "/bhishp-cv/service-worker.js"
 }
