@@ -14,13 +14,21 @@
   position: absolute;
   top: -4px;
   right: 13.5px;
-  font-size: 12px;
+  font-size: 1rem;
+  text-align: right;
+}
+
+@media all and (min-width: 600px) {
+  .CVHeader-corner-box { font-size: 0.9rem; }
 }
 
 .CVHeader-headshot-wrapper {
   align-self: center;
-  width: 25%;
+  width: 35%;
   text-align: center;
+}
+@media all and (min-width: 600px) {
+  .CVHeader-headshot-wrapper { width: 25%; }
 }
 .CVHeader-headshot {
   border-radius: 50%;
@@ -31,7 +39,7 @@
 }
 
 .CVHeader-headings {
-  width: 45%;
+  width: 50%;
   font-family: headingfont;
   text-transform: uppercase;
 }
@@ -40,7 +48,7 @@
 }
 
 .CVHeader-name {
-  font-size: 50px;
+  font-size: 3.125rem;
   margin-bottom: -3px;
 }
 .CVHeader-forename {
@@ -52,7 +60,7 @@
 }
 
 .CVHeader-profession {
-  font-size: 29px;
+  font-size: 1.8125rem;
   color: white;
 }
 .CVHeader-profession span:nth-child(even) {
@@ -62,13 +70,20 @@
 
 .CVHeader-personal-information {
   color: white;
-  width: 30%;
+  width: 25%;
   list-style-type: none;
   padding-left: 0;
 }
 .CVHeader-personal-information a:link, a:visited, a:hover, a:active {
   color: white;
   text-decoration: none;
+}
+@media all and (max-width: 600px) {
+  .CVHeader-personal-information {
+    position: absolute;
+    bottom: 0;
+    right: 6px;
+  }
 }
 
 @keyframes CVHeader-headshot-spin {

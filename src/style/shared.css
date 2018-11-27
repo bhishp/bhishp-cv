@@ -9,4 +9,9 @@
 
 @value headingfont: 'Bebas', courier, 'Roboto', sans-serif;
 
+/* responsive breakpoints */
+/*@value sm: 600px;*/
+/*@value md: 600px;*/
+/*@value lg: 720px;*/
+
 /*@value gutterwidth: 10%;*/
