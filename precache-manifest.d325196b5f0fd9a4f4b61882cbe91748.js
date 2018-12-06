@@ -1,19 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "47955da3f6ecc6922363",
-    "url": "/bhishp-cv/static/css/main.9c326549.chunk.css"
+    "revision": "3f1a6f3423126a1ac3a7",
+    "url": "/bhishp-cv/static/css/main.795bd583.chunk.css"
   },
   {
-    "revision": "47955da3f6ecc6922363",
-    "url": "/bhishp-cv/static/js/main.47955da3.chunk.js"
+    "revision": "3f1a6f3423126a1ac3a7",
+    "url": "/bhishp-cv/static/js/main.3f1a6f34.chunk.js"
   },
   {
-    "revision": "0a04c071cb6b992712e1",
-    "url": "/bhishp-cv/static/js/1.0a04c071.chunk.js"
+    "revision": "057c92affd3546d8c9f1",
+    "url": "/bhishp-cv/static/js/1.057c92af.chunk.js"
   },
   {
     "revision": "4b929f44b91bf3da1d65",
     "url": "/bhishp-cv/static/js/runtime~main.4b929f44.js"
+  },
+  {
+    "revision": "a7efc2b6c28162cd1e80ab4a22bc3cea",
+    "url": "/bhishp-cv/static/media/medstars.a7efc2b6.png"
+  },
+  {
+    "revision": "4aa2bd84615c2aea04dab1dcca51e2fb",
+    "url": "/bhishp-cv/static/media/soc.4aa2bd84.png"
+  },
+  {
+    "revision": "142c55924eb729a1193f47597cf448df",
+    "url": "/bhishp-cv/static/media/credit-suisse.142c5592.png"
   },
   {
     "revision": "053be053d9931657f17dfac875266795",
@@ -68,7 +80,7 @@ self.__precacheManifest = [
     "url": "/bhishp-cv/static/media/BEBAS.7d3d597a.ttf"
   },
   {
-    "revision": "8922126d5316a00a3ef47c578229e793",
+    "revision": "7839a854505768d3c98b5e2cab17dca1",
     "url": "/bhishp-cv/index.html"
   }
 ];
