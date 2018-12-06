@@ -1,5 +1,13 @@
 import { IconName as FAIconName } from '@fortawesome/free-solid-svg-icons';
 
+export enum HeadingIcon {
+  YLD = 'yld',
+  TRAINLINE = 'trainline',
+  MEDSTARS = 'medstars',
+  SCHOOL_OF_CODE = 'soc',
+  CREDIT_SUISSE = 'credit-suisse',
+}
+
 export enum TechIcon {
   REACT = 'react',
   METEOR = 'meteor',
@@ -32,12 +40,13 @@ export interface Data {
 
 export interface Section {
   heading: string;
-  icon: Icon;
+  icon: FAIcon;
   articles: Article[];
 }
 
 export interface Article {
   heading: string;
+  headingIcons?: HeadingIcon[];
   info: string;
   footnotes?: string;
   techIcons?: TechIcon[];
@@ -47,10 +56,10 @@ export interface Article {
 export interface Aside {
   title?: string;
   period?: string;
-  icon?: Icon;
+  icon?: FAIcon;
 }
 
-export type Icon = {
+export type FAIcon = {
   name: FAIconName;
   small?: boolean;
 }

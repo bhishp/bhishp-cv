@@ -5,10 +5,11 @@ import { Article } from '../../types/data';
 
 import './CVArticle.css';
 import CVAside from '../CVAside/CVAside';
+import HeadingIcon from './HeadingIcon/HeadingIcon';
 import TechIcon from '../TechIcon/TechIcon';
 
 const CVArticle: React.FunctionComponent<Article> = ({
-  heading, info, footnotes, techIcons, aside
+  heading, headingIcons, info, footnotes, techIcons, aside
 }) => (
   <article className="Article">
     <div className="Article-wrapper">
@@ -16,6 +17,10 @@ const CVArticle: React.FunctionComponent<Article> = ({
       <div className="Article-info">
         <header className="Article-header">
           <h3>{heading}</h3>
+          <ul className="Article-header-icons">
+            {headingIcons && headingIcons.map(icon => <li key={icon}><HeadingIcon icon={icon} /></li>)}
+          </ul>
+
         </header>
         <div className="Article-body">
           <div className="Article-copy">

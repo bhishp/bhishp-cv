@@ -29,6 +29,23 @@
 }
 
 /* info */
+.Article-header {
+  display: flex;
+  align-items: center;
+}
+.Article-header-icons {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 0 6px;
+}
+.Article-header-icons > li {
+  float: left;
+}
+.Article-header-icons > li > img {
+  width: 35px;
+  border-radius: 25%;
+}
+
 .Article-header h3 {
   text-transform: uppercase;
   font-size: 22px;
@@ -55,6 +72,6 @@
 
   list-style-type: none;
 }
-.Article-icons li img{
+.Article-icons li > img {
   width: 28px;
 }

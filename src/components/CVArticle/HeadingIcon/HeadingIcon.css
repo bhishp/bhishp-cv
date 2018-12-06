@@ -1,8 +1,8 @@
-.TechIcon:hover {
-  animation: TechIcon-jump 0.9s ease-in-out;
+.HeadingIcon:hover {
+  animation: HeadingIcon-anim 0.9s ease-in-out;
 }
 
-@keyframes TechIcon-jump {
+@keyframes HeadingIcon-anim {
   0% {
     transform: scale(1);
   }

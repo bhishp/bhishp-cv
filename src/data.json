@@ -13,6 +13,7 @@
       "articles": [
         {
           "heading": "YLD/Trainline",
+          "headingIcons": [ "yld", "trainline" ],
           "info": "I joined YLD as a senior javascript developer in Feb 2018 and was deployed onsite to consult at Trainline for the entirety of the contract. The focus of this work was around consolidating the UK and European platforms into a Single Global Platform, as the business looked to expand into European and Global markets. Additionally I worked on the redesign of the search ‘matrix’ and ticket selection flow for the core UK audience in line with new designs.\n\nI also worked with another small, mission team to create a new service for querying the consolidated database of 120k+ stations and locations across Europe. The requirements were high resiliency, throughput, stability and multi-lingual support. This was built on AWS infrastructure: EC2, CloudSearch, Lambda.",
           "footnotes": "Notable Tech: JS/ES6, React, Redux, RxJS, Redux Observables, Node, Swagger, CloudSearch, Lambda",
           "techIcons": [
@@ -30,6 +31,7 @@
         },
         {
           "heading": "Medstars",
+          "headingIcons": [ "medstars" ],
           "info": "Medstars.co.uk is a start-up based in Birmingham whose aim is to provide an online and localised directory of private medical practitioners. The brief of this project was to design and build a working prototype from scratch, with architecture and framework decisions left to myself and a fellow freelancer.",
           "footnotes": "Notable Tech: JS/ES6, Node, Meteor, React, React Storybook, React Router, SASS",
           "techIcons": [
@@ -44,6 +46,7 @@
         },
         {
           "heading": "School of Code",
+          "headingIcons": [ "soc" ],
           "info": "School of Code is a learn-to-code startup I founded with a friend from University that aims to diversify technology by changing the way that coding is taught. The SoC has built a prototype of an online coding platform which teaches coding through an interactive game, and has reached over 100,000 learners through partnering with Code.org - try it yourself at schoolofcode.io.",
           "footnotes": "Notable Tech: JS/ES6, React, Redux, Socket-io, Webpack, CSS Modules, Node, AWS, Docker, Redis, MongoDB",
           "techIcons": [
@@ -60,6 +63,7 @@
         },
         {
           "heading": "Credit Suisse",
+          "headingIcons": [ "credit-suisse" ],
           "info": "Working at Credit Suisse was my first role upon graduating from University and involved rotations amongst two different teams, the AES Algorithmic Trading team, and SDP (Single Dealer Platform) team.\n\nAES is an algorithmic trading platform that operates in various markets such as the LSE, NYSE and global  futures exchanges. This role involved representing complex trading models in a proprietary C# codebase.\n\nSDP was a web-based trading platform developed by Credit Suisse to enable its clients to trade a variety of different asset classes, predominantly FX. The frontend was built in DotNet/Silverlight, connected to a Java/SpringFramework backend.",
           "footnotes": "Notable Tech: C#/DotNet, Java, Spring Framework, SQL",
           "techIcons": [
