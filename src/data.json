@@ -87,7 +87,7 @@
       },
       "articles": [
         {
-          "heading": "BSc Computer Science First Class",
+          "heading": "BSc Computer Science - First Class",
           "info": "Four year course (including a year working in industry). Modules included were: OOP in Java, Functional Programming with Haskell, Language and Logic, Languages and Compilers.",
           "techIcons": ["java", "haskell"],
           "aside": {
