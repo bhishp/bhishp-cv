@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "16fd9f761292f5df8aa3",
-    "url": "/bhishp-cv/static/css/main.739ddb6c.chunk.css"
+    "revision": "0da99617987bdd00dd18",
+    "url": "/bhishp-cv/static/css/main.9d2b4250.chunk.css"
   },
   {
-    "revision": "16fd9f761292f5df8aa3",
-    "url": "/bhishp-cv/static/js/main.16fd9f76.chunk.js"
+    "revision": "0da99617987bdd00dd18",
+    "url": "/bhishp-cv/static/js/main.0da99617.chunk.js"
   },
   {
     "revision": "12a8a54e956dbbfa445f",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/bhishp-cv/static/media/BEBAS.7d3d597a.ttf"
   },
   {
-    "revision": "65b334736ae53e01ffe7799c20994c38",
+    "revision": "9d36a0c46c61b170aae8599bbe54202b",
     "url": "/bhishp-cv/index.html"
   }
 ];
