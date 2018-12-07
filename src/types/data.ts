@@ -23,6 +23,7 @@ export enum TechIcon {
   REDUX_OBSERVABLES = 'redux-observables',
   SWAGGER = 'swagger',
   AWS_LAMBDA = 'aws-lambda',
+  WEBPACK = 'webpack',
 }
 
 export interface Data {

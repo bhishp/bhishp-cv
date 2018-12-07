@@ -17,6 +17,7 @@ import haskellIcon from './img/haskell.png';
 import reduxObservablesIcon from './img/redux-observables.png';
 import swaggerIcon from './img/swagger-logo.png';
 import lambdaIcon from './img/aws-lambda.png';
+import webpackIcon from './img/webpack.png';
 
 const TechIconMap = {
   [TechIconType.REACT]: reactIcon,
@@ -32,7 +33,8 @@ const TechIconMap = {
   [TechIconType.HASKELL]:  haskellIcon,
   [TechIconType.REDUX_OBSERVABLES]:  reduxObservablesIcon,
   [TechIconType.SWAGGER]:  swaggerIcon,
-  [TechIconType.AWS_LAMBDA]:  lambdaIcon
+  [TechIconType.AWS_LAMBDA]:  lambdaIcon,
+  [TechIconType.WEBPACK]:  webpackIcon,
 };
 
 export interface TechIconProps {
