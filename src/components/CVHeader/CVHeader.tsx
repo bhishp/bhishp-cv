@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'
-import { faGithub } from '@fortawesome/free-brands-svg-icons'
+// import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 import './CVHeader.css';
 
@@ -41,8 +41,9 @@ const CVHeader: React.FunctionComponent<CVHeaderProps> = ({
       </span>
     </div>
     <ul className="CVHeader-personal-information">
-      <li><FontAwesomeIcon icon={faPhone} /> {number}</li>
-      <li><FontAwesomeIcon icon={faEnvelope} /> {email}</li>
+      {/*<li><FontAwesomeIcon icon={faPhone} /> {number}</li>*/}
+      {/*<li><FontAwesomeIcon icon={faEnvelope} /> {email}</li>*/}
+      <li><FontAwesomeIcon icon={faLinkedin} /> <a target="_blank" href="https://linkedin.com/in/bhish/">/in/bhish/</a></li>
       <li><FontAwesomeIcon icon={faGithub} /> <a target="_blank" href="https://github.com/bhishp">bhishp</a></li>
     </ul>
   </header>

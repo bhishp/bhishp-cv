@@ -35,7 +35,7 @@
   width: 50%;
   min-width: 100px;
   max-width: 115px;
-  animation: CVHeader-headshot-spin infinite 20s linear;
+  animation: anim-spin infinite 20s linear;
 }
 
 .CVHeader-headings {
@@ -85,9 +85,4 @@
     bottom: 0;
     right: 6px;
   }
-}
-
-@keyframes CVHeader-headshot-spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
 }
