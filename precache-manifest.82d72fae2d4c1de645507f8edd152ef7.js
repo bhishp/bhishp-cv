@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "3f1a6f3423126a1ac3a7",
-    "url": "/bhishp-cv/static/css/main.795bd583.chunk.css"
+    "revision": "16fd9f761292f5df8aa3",
+    "url": "/bhishp-cv/static/css/main.739ddb6c.chunk.css"
   },
   {
-    "revision": "3f1a6f3423126a1ac3a7",
-    "url": "/bhishp-cv/static/js/main.3f1a6f34.chunk.js"
+    "revision": "16fd9f761292f5df8aa3",
+    "url": "/bhishp-cv/static/js/main.16fd9f76.chunk.js"
   },
   {
-    "revision": "057c92affd3546d8c9f1",
-    "url": "/bhishp-cv/static/js/1.057c92af.chunk.js"
+    "revision": "12a8a54e956dbbfa445f",
+    "url": "/bhishp-cv/static/js/1.12a8a54e.chunk.js"
   },
   {
     "revision": "4b929f44b91bf3da1d65",
@@ -72,6 +72,10 @@ self.__precacheManifest = [
     "url": "/bhishp-cv/static/media/haskell.9d62535a.png"
   },
   {
+    "revision": "42552beea11702e41965f16202d2237f",
+    "url": "/bhishp-cv/static/media/webpack.42552bee.png"
+  },
+  {
     "revision": "51092ddc837f4cfd95a16e99da8b4010",
     "url": "/bhishp-cv/static/media/bhish-superman.51092ddc.png"
   },
@@ -80,7 +84,7 @@ self.__precacheManifest = [
     "url": "/bhishp-cv/static/media/BEBAS.7d3d597a.ttf"
   },
   {
-    "revision": "7839a854505768d3c98b5e2cab17dca1",
+    "revision": "65b334736ae53e01ffe7799c20994c38",
     "url": "/bhishp-cv/index.html"
   }
 ];

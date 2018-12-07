@@ -1,9 +1,9 @@
 {
-  "main.css": "/bhishp-cv/static/css/main.795bd583.chunk.css",
-  "main.js": "/bhishp-cv/static/js/main.3f1a6f34.chunk.js",
-  "main.js.map": "/bhishp-cv/static/js/main.3f1a6f34.chunk.js.map",
-  "static/js/1.057c92af.chunk.js": "/bhishp-cv/static/js/1.057c92af.chunk.js",
-  "static/js/1.057c92af.chunk.js.map": "/bhishp-cv/static/js/1.057c92af.chunk.js.map",
+  "main.css": "/bhishp-cv/static/css/main.739ddb6c.chunk.css",
+  "main.js": "/bhishp-cv/static/js/main.16fd9f76.chunk.js",
+  "main.js.map": "/bhishp-cv/static/js/main.16fd9f76.chunk.js.map",
+  "static/js/1.12a8a54e.chunk.js": "/bhishp-cv/static/js/1.12a8a54e.chunk.js",
+  "static/js/1.12a8a54e.chunk.js.map": "/bhishp-cv/static/js/1.12a8a54e.chunk.js.map",
   "runtime~main.js": "/bhishp-cv/static/js/runtime~main.4b929f44.js",
   "runtime~main.js.map": "/bhishp-cv/static/js/runtime~main.4b929f44.js.map",
   "static/media/medstars.png": "/bhishp-cv/static/media/medstars.a7efc2b6.png",
@@ -20,10 +20,11 @@
   "static/media/sql-icon.png": "/bhishp-cv/static/media/sql-icon.9d2f5f92.png",
   "static/media/java-logo.png": "/bhishp-cv/static/media/java-logo.61c6706b.png",
   "static/media/haskell.png": "/bhishp-cv/static/media/haskell.9d62535a.png",
+  "static/media/webpack.png": "/bhishp-cv/static/media/webpack.42552bee.png",
   "static/media/bhish-superman.png": "/bhishp-cv/static/media/bhish-superman.51092ddc.png",
   "static/media/index.css": "/bhishp-cv/static/media/BEBAS.7d3d597a.ttf",
-  "static/css/main.795bd583.chunk.css.map": "/bhishp-cv/static/css/main.795bd583.chunk.css.map",
+  "static/css/main.739ddb6c.chunk.css.map": "/bhishp-cv/static/css/main.739ddb6c.chunk.css.map",
   "index.html": "/bhishp-cv/index.html",
-  "precache-manifest.d325196b5f0fd9a4f4b61882cbe91748.js": "/bhishp-cv/precache-manifest.d325196b5f0fd9a4f4b61882cbe91748.js",
+  "precache-manifest.82d72fae2d4c1de645507f8edd152ef7.js": "/bhishp-cv/precache-manifest.82d72fae2d4c1de645507f8edd152ef7.js",
   "service-worker.js": "/bhishp-cv/service-worker.js"
 }
