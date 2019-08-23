@@ -18,6 +18,10 @@ import reduxObservablesIcon from './img/redux-observables.png';
 import swaggerIcon from './img/swagger-logo.png';
 import lambdaIcon from './img/aws-lambda.png';
 import webpackIcon from './img/webpack.png';
+import firebaseIcon from './img/firebase.png';
+import formikIcon from './img/formik.png';
+import pwaIcon from './img/pwa.png';
+import reduxSagaIcon from './img/redux-saga.png';
 
 const TechIconMap = {
   [TechIconType.REACT]: reactIcon,
@@ -35,6 +39,10 @@ const TechIconMap = {
   [TechIconType.SWAGGER]:  swaggerIcon,
   [TechIconType.AWS_LAMBDA]:  lambdaIcon,
   [TechIconType.WEBPACK]:  webpackIcon,
+  [TechIconType.FIREBASE]:  firebaseIcon,
+  [TechIconType.FORMIK]:  formikIcon,
+  [TechIconType.PWA]:  pwaIcon,
+  [TechIconType.REDUX_SAGA]:  reduxSagaIcon,
 };
 
 export interface TechIconProps {

@@ -3,6 +3,8 @@ import React from 'react';
 import './HeadingIcon.css';
 import { HeadingIcon as HeadingIconType } from '../../../types/data';
 
+import shellIcon from './img/shell.png';
+import sailmetrixIcon from './img/sailmetrix.svg';
 import yldIcon from './img/yld.jpg';
 import trainlineIcon from './img/trainline.png';
 import medstarsIcon from './img/medstars.png';
@@ -10,6 +12,8 @@ import socIcon from './img/soc.png';
 import creditSuisseIcon from './img/credit-suisse.png';
 
 const HeadingIconMap = {
+  [HeadingIconType.SHELL]: shellIcon,
+  [HeadingIconType.SAILMETRIX]: sailmetrixIcon,
   [HeadingIconType.YLD]: yldIcon,
   [HeadingIconType.TRAINLINE]:  trainlineIcon,
   [HeadingIconType.MEDSTARS]:  medstarsIcon,

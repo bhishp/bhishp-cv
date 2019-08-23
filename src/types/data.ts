@@ -1,6 +1,8 @@
 import { IconName as FAIconName } from '@fortawesome/free-solid-svg-icons';
 
 export enum HeadingIcon {
+  SHELL = 'shell',
+  SAILMETRIX = 'sailmetrix',
   YLD = 'yld',
   TRAINLINE = 'trainline',
   MEDSTARS = 'medstars',
@@ -24,6 +26,10 @@ export enum TechIcon {
   SWAGGER = 'swagger',
   AWS_LAMBDA = 'aws-lambda',
   WEBPACK = 'webpack',
+  FIREBASE = 'firebase',
+  FORMIK = 'formik',
+  PWA = 'pwa',
+  REDUX_SAGA = 'redux-saga',
 }
 
 export interface Data {
