@@ -1,19 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "0da99617987bdd00dd18",
-    "url": "/bhishp-cv/static/css/main.9d2b4250.chunk.css"
+    "revision": "02432ac5f57232603b7b",
+    "url": "/bhishp-cv/static/css/main.3bddfb77.chunk.css"
   },
   {
-    "revision": "0da99617987bdd00dd18",
-    "url": "/bhishp-cv/static/js/main.0da99617.chunk.js"
+    "revision": "02432ac5f57232603b7b",
+    "url": "/bhishp-cv/static/js/main.02432ac5.chunk.js"
   },
   {
-    "revision": "12a8a54e956dbbfa445f",
-    "url": "/bhishp-cv/static/js/1.12a8a54e.chunk.js"
+    "revision": "1d331606f60a8ceace04",
+    "url": "/bhishp-cv/static/js/1.1d331606.chunk.js"
   },
   {
     "revision": "4b929f44b91bf3da1d65",
     "url": "/bhishp-cv/static/js/runtime~main.4b929f44.js"
+  },
+  {
+    "revision": "def05615af671f9a4b22075547300c5f",
+    "url": "/bhishp-cv/static/media/shell.def05615.png"
+  },
+  {
+    "revision": "4a3f1f3614629e5821bfc1f5c969d8f0",
+    "url": "/bhishp-cv/static/media/sailmetrix.4a3f1f36.svg"
   },
   {
     "revision": "a7efc2b6c28162cd1e80ab4a22bc3cea",
@@ -76,6 +84,22 @@ self.__precacheManifest = [
     "url": "/bhishp-cv/static/media/webpack.42552bee.png"
   },
   {
+    "revision": "1da029b3c1a275f00a75e7bb3ab8d9db",
+    "url": "/bhishp-cv/static/media/firebase.1da029b3.png"
+  },
+  {
+    "revision": "f2db9bb4c40bd00e89a50c93e13f92bf",
+    "url": "/bhishp-cv/static/media/formik.f2db9bb4.png"
+  },
+  {
+    "revision": "489f9aa4068bb41ef8e720a6c21f0fb8",
+    "url": "/bhishp-cv/static/media/pwa.489f9aa4.png"
+  },
+  {
+    "revision": "548fd8fac560d0e89565166afa4098a0",
+    "url": "/bhishp-cv/static/media/redux-saga.548fd8fa.png"
+  },
+  {
     "revision": "51092ddc837f4cfd95a16e99da8b4010",
     "url": "/bhishp-cv/static/media/bhish-superman.51092ddc.png"
   },
@@ -84,7 +108,7 @@ self.__precacheManifest = [
     "url": "/bhishp-cv/static/media/BEBAS.7d3d597a.ttf"
   },
   {
-    "revision": "9d36a0c46c61b170aae8599bbe54202b",
+    "revision": "bfa7a80f08a1322185d625f8282deb13",
     "url": "/bhishp-cv/index.html"
   }
 ];
