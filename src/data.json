@@ -14,7 +14,7 @@
         {
           "heading": "Shell Dig Ventures",
           "headingIcons": [ "shell", "sailmetrix" ],
-          "info": "Lead Frontend Dev for one of Shell Digital Ventures internal startups, Sailmetrix. We are building a PWA for the marine shipping industry. PWA needs to perform in an offline and low-connectivity environment (the middle of the Atlantic!) so includes challenges of caching and building an offline-first experience.\n\nApp and Functions hosted on Firebase, communicating with a Go backend that utilises Apache Beam for High-Frequency stream processing.",
+          "info": "Lead Frontend Dev for one of Shell Digital Ventures internal startups, Sailmetrix. We are building a PWA for the marine shipping industry. PWA needs to perform in an offline and low-connectivity environment (the middle of the Atlantic!) so includes challenges of caching and building an offline-first experience.\n\nThis role requires a great deal of rapid prototyping and continuous delivery whilst we test different assumptions and learn about the real problems faced by the users. Particularly challenging was coming up with solutions that addressed the great deal of fragmentation in the industry, including tailoring interfaces to bespoke shipping configurations and reporting formats.\n\nApp and Functions hosted on Firebase, communicating with a Go backend that utilises Apache Beam for High-Frequency stream processing.",
           "footnotes": "Notable Tech: React, Redux, Sagas, Firebase, PWA, Formik",
           "techIcons": [
             "react",
