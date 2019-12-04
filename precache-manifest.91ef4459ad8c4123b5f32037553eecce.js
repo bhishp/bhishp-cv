@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "f7157cfe5e3ab0a49eed",
-    "url": "/bhishp-cv/static/css/main.3bddfb77.chunk.css"
+    "revision": "a5b3f096b2f773cf790f",
+    "url": "/bhishp-cv/static/css/main.625cbfea.chunk.css"
   },
   {
-    "revision": "f7157cfe5e3ab0a49eed",
-    "url": "/bhishp-cv/static/js/main.f7157cfe.chunk.js"
+    "revision": "a5b3f096b2f773cf790f",
+    "url": "/bhishp-cv/static/js/main.a5b3f096.chunk.js"
   },
   {
-    "revision": "1d331606f60a8ceace04",
-    "url": "/bhishp-cv/static/js/1.1d331606.chunk.js"
+    "revision": "bf70034ff90cd450f398",
+    "url": "/bhishp-cv/static/js/1.bf70034f.chunk.js"
   },
   {
     "revision": "4b929f44b91bf3da1d65",
@@ -100,6 +100,14 @@ self.__precacheManifest = [
     "url": "/bhishp-cv/static/media/redux-saga.548fd8fa.png"
   },
   {
+    "revision": "4e96f1110cb872407e837d4fc1440f96",
+    "url": "/bhishp-cv/static/media/typescript.4e96f111.png"
+  },
+  {
+    "revision": "bff0e5ec92ae80257bc33e882a23e1d8",
+    "url": "/bhishp-cv/static/media/circle-ci.bff0e5ec.png"
+  },
+  {
     "revision": "51092ddc837f4cfd95a16e99da8b4010",
     "url": "/bhishp-cv/static/media/bhish-superman.51092ddc.png"
   },
@@ -108,7 +116,7 @@ self.__precacheManifest = [
     "url": "/bhishp-cv/static/media/BEBAS.7d3d597a.ttf"
   },
   {
-    "revision": "2df27580e7f74190772aa960085f1e7c",
+    "revision": "040ece1af6e393cdf070665844cb7a62",
     "url": "/bhishp-cv/index.html"
   }
 ];
