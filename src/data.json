@@ -14,14 +14,17 @@
         {
           "heading": "Shell Dig Ventures",
           "headingIcons": [ "shell", "sailmetrix" ],
-          "info": "Lead Frontend Dev for one of Shell Digital Ventures internal startups, Sailmetrix. We are building a PWA for the marine shipping industry. PWA needs to perform in an offline and low-connectivity environment (the middle of the Atlantic!) so includes challenges of caching and building an offline-first experience.\n\nThis role requires a great deal of rapid prototyping and continuous delivery whilst we test different assumptions and learn about the real problems faced by the users. Particularly challenging was coming up with solutions that addressed the great deal of fragmentation in the industry, including tailoring interfaces to bespoke shipping configurations and reporting formats.\n\nApp and Functions hosted on Firebase, communicating with a Go backend that utilises Apache Beam for High-Frequency stream processing.",
-          "footnotes": "Notable Tech: React, Redux, Sagas, Firebase, PWA, Formik",
+          "info": "Lead Frontend Dev for one of Shell Digital Ventures internal startups, Sailmetrix. We are building a Typescript PWA for the marine shipping industry. PWA needs to perform in an offline and low-connectivity environment (the middle of the Atlantic!) so includes challenges of caching and building an offline-first experience.\n\nThis role requires a great deal of rapid prototyping and continuous delivery whilst we test different assumptions and learn about the real problems faced by the users. Particularly challenging was coming up with solutions that addressed the great deal of fragmentation in the industry, including tailoring interfaces to bespoke shipping configurations and reporting formats.\n\nAs Lead dev I must take decisions on core technologies used, support the development all the way from writing the code, to managing the task planning for Frontend, and configuring CI and deployments.\n\nApp and Functions hosted on Firebase, communicating with a Go backend that utilises Apache Beam for High-Frequency stream processing.",
+          "footnotes": "Notable Tech: Typescript, React, Redux, Sagas, Firebase, PWA, Formik",
           "techIcons": [
+            "typescript",
             "react",
             "redux",
             "redux-saga",
+            "jest",
             "pwa",
             "firebase",
+            "circle-ci",
             "formik"
           ],
           "aside": {
@@ -32,12 +35,14 @@
         {
           "heading": "YLD/Trainline",
           "headingIcons": [ "yld", "trainline" ],
-          "info": "I joined YLD as a senior javascript developer in Feb 2018 and was deployed onsite to consult at Trainline for the entirety of the contract. The focus of this work was around consolidating the UK and European platforms into a Single Global Platform, as the business looked to expand into European and Global markets. Additionally I worked on the redesign of the search ‘matrix’ and ticket selection flow for the core UK audience in line with new designs.\n\nI also worked with another small, mission team to create a new service for querying the consolidated database of 120k+ stations and locations across Europe. The requirements were high resiliency, throughput, stability and multi-lingual support. This was built on AWS infrastructure: EC2, CloudSearch, Lambda.",
-          "footnotes": "Notable Tech: JS/ES6, React, Redux, RxJS, Redux Observables, Node, Swagger, CloudSearch, Lambda",
+          "info": "I joined YLD as a senior Typescript developer in Feb 2018 and was deployed onsite to consult at Trainline for the entirety of the contract. The focus of this work was around consolidating the UK and European platforms into a Single Global Platform, as the business looked to expand into European and Global markets. Additionally I worked on the redesign of the search ‘matrix’ and ticket selection flow for the core UK audience in line with new designs.\n\nI also worked with another small, mission team to create a new service for querying the consolidated database of 120k+ stations and locations across Europe. The requirements were high resiliency, throughput, stability and multi-lingual support. This was built on AWS infrastructure: EC2, CloudSearch, Lambda.",
+          "footnotes": "Notable Tech: Typescript/ES6, React, Redux, RxJS, Redux Observables, Node, Swagger, CloudSearch, Lambda",
           "techIcons": [
+            "typescript",
             "react",
             "redux",
             "redux-observables",
+            "jest",
             "node",
             "swagger",
             "aws-lambda"

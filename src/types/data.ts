@@ -30,6 +30,9 @@ export enum TechIcon {
   FORMIK = 'formik',
   PWA = 'pwa',
   REDUX_SAGA = 'redux-saga',
+  TYPESCRIPT = 'typescript',
+  JEST = 'jest',
+  CIRCLE_CI = 'circle-ci',
 }
 
 export interface Data {

@@ -22,6 +22,9 @@ import firebaseIcon from './img/firebase.png';
 import formikIcon from './img/formik.png';
 import pwaIcon from './img/pwa.png';
 import reduxSagaIcon from './img/redux-saga.png';
+import typescriptIcon from './img/typescript.png';
+import jestIcon from './img/jest.png';
+import circleCiIcon from './img/circle-ci.png';
 
 const TechIconMap = {
   [TechIconType.REACT]: reactIcon,
@@ -43,6 +46,9 @@ const TechIconMap = {
   [TechIconType.FORMIK]:  formikIcon,
   [TechIconType.PWA]:  pwaIcon,
   [TechIconType.REDUX_SAGA]:  reduxSagaIcon,
+  [TechIconType.TYPESCRIPT]:  typescriptIcon,
+  [TechIconType.JEST]:  jestIcon,
+  [TechIconType.CIRCLE_CI]:  circleCiIcon,
 };
 
 export interface TechIconProps {
