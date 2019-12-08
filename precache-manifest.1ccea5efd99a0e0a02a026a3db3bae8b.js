@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/bhishp-cv/static/media/BEBAS.7d3d597a.ttf"
   },
   {
-    "revision": "040ece1af6e393cdf070665844cb7a62",
+    "revision": "5f551c468cdc6ca3ff6afc67e5f2bbe6",
     "url": "/bhishp-cv/index.html"
   }
 ];
