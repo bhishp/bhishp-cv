@@ -12,6 +12,25 @@
       },
       "articles": [
         {
+          "heading": "Atos",
+          "headingIcons": [ "atos" ],
+          "info": "Atos is a multinational consultancy that provides technology solutions across various sectors. I have been working on a digital transformation project for a client in the re-insurance industry. My role here has been multi-disciplinary; from Frontend engineering, to team management & growth, to product ownership.\n\nAs part of the project I have been involved all the way from customer interviews, UX & technical design, to engineering implementation. Our solution consists of several WebApps aimed at serving distinct business units to build up a larger ecosystem. The core UI libraries used are Typescript 4, React 17, Apollo Client 3, as well as additional libraries such as gql-codegen, Chakra-UI, Cypress, RTL and more.\n\nAs part of our ethos of continuous improvement I initiated an internal UI project to develop re-usable UI packages that could be consumed across our various apps. This covered everything, from defining the contributing guidelines, dev, build, and publish processes. This is a Lerna monorepo consisting of several sub-packages, hosted in GitHub Packages.\n\nMost recently I have been working in a Technical Product Owner role, with a focus on leading the engineering team to achieve business goals and owning the backlog. I am here to shelter the team from outside stressors and align them on delivering a great product.",
+          "footnotes": "Notable Tech: Typescript, React, GraphQL, Apollo, Chakra-UI, Cypress, GQL Codegen",
+          "techIcons": [
+            "typescript",
+            "react",
+            "graphql",
+            "apollo",
+            "cypress",
+            "chakra",
+            "gql-codegen"
+          ],
+          "aside": {
+            "title": "Lead Frontend & TPO - Contract",
+            "period": "Nov 2020 - current"
+          }
+        },
+        {
           "heading": "Shell Dig Ventures",
           "headingIcons": [ "shell", "sailmetrix" ],
           "info": "Lead Frontend Dev for one of Shell Digital Ventures internal startups, Sailmetrix. We are building a Typescript PWA for the marine shipping industry. PWA needs to perform in an offline and low-connectivity environment (the middle of the Atlantic!) so includes challenges of caching and building an offline-first experience.\n\nThis role requires a great deal of rapid prototyping and continuous delivery whilst we test different assumptions and learn about the real problems faced by the users. Particularly challenging was coming up with solutions that addressed the great deal of fragmentation in the industry, including tailoring interfaces to bespoke shipping configurations and reporting formats.\n\nAs Lead dev I must take decisions on core technologies used, support the development all the way from writing the code, to managing the task planning for Frontend, and configuring CI and deployments.\n\nApp and Functions hosted on Firebase, communicating with a Go backend that utilises Apache Beam for High-Frequency stream processing.",
@@ -29,7 +48,7 @@
           ],
           "aside": {
             "title": "Lead Frontend Dev - Contract",
-            "period": "Mar 2019 - current"
+            "period": "Mar 2019 - Nov 2020"
           }
         },
         {

@@ -25,6 +25,11 @@ import reduxSagaIcon from './img/redux-saga.png';
 import typescriptIcon from './img/typescript.png';
 import jestIcon from './img/jest.png';
 import circleCiIcon from './img/circle-ci.png';
+import apolloIcon from './img/apollo.png';
+import graphqlIcon from './img/graphql.png';
+import cypressIcon from './img/cypress.png';
+import chakraIcon from './img/chakra.jpg';
+import gqlCodegenIcon from './img/gql-codegen.png';
 
 const TechIconMap = {
   [TechIconType.REACT]: reactIcon,
@@ -49,6 +54,11 @@ const TechIconMap = {
   [TechIconType.TYPESCRIPT]:  typescriptIcon,
   [TechIconType.JEST]:  jestIcon,
   [TechIconType.CIRCLE_CI]:  circleCiIcon,
+  [TechIconType.APOLLO]:  apolloIcon,
+  [TechIconType.GRAPHQL]:  graphqlIcon,
+  [TechIconType.CYPRESS]:  cypressIcon,
+  [TechIconType.CHAKRA]:  chakraIcon,
+  [TechIconType.GQL_CODEGEN]:  gqlCodegenIcon,
 };
 
 export interface TechIconProps {

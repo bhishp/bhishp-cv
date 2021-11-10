@@ -1,6 +1,7 @@
 import { IconName as FAIconName } from '@fortawesome/free-solid-svg-icons';
 
 export enum HeadingIcon {
+  ATOS = 'atos',
   SHELL = 'shell',
   SAILMETRIX = 'sailmetrix',
   YLD = 'yld',
@@ -33,6 +34,11 @@ export enum TechIcon {
   TYPESCRIPT = 'typescript',
   JEST = 'jest',
   CIRCLE_CI = 'circle-ci',
+  APOLLO = 'apollo',
+  GRAPHQL = 'graphql',
+  CYPRESS = 'cypress',
+  CHAKRA = 'chakra',
+  GQL_CODEGEN = 'gql-codegen',
 }
 
 export interface Data {

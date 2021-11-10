@@ -3,6 +3,7 @@ import React from 'react';
 import './HeadingIcon.css';
 import { HeadingIcon as HeadingIconType } from '../../../types/data';
 
+import atosIcon from './img/atos.jpeg';
 import shellIcon from './img/shell.png';
 import sailmetrixIcon from './img/sailmetrix.svg';
 import yldIcon from './img/yld.jpg';
@@ -12,6 +13,7 @@ import socIcon from './img/soc.png';
 import creditSuisseIcon from './img/credit-suisse.png';
 
 const HeadingIconMap = {
+  [HeadingIconType.ATOS]: atosIcon,
   [HeadingIconType.SHELL]: shellIcon,
   [HeadingIconType.SAILMETRIX]: sailmetrixIcon,
   [HeadingIconType.YLD]: yldIcon,
