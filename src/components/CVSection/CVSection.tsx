@@ -7,11 +7,20 @@ import './CVSection.css';
 import CVArticle from '../CVArticle/CVArticle';
 import CVIcon from '../CVIcon/CVIcon';
 
-
+/**
+ * A section that can include multiple articles
+ * @param heading
+ * @param icon
+ * @param articles
+ * @param children
+ * @param props
+ * @constructor
+ */
 const CVSection: React.FunctionComponent<Section> = ({
   heading,
   icon,
   articles = [],
+  children,
   ...props
 }) => (
   <section className="Section" {...props}>
@@ -23,6 +32,7 @@ const CVSection: React.FunctionComponent<Section> = ({
       <span className="Section-divider" />
     </header>
     {articles.map(article => <CVArticle key={article.heading} {...article} />)}
+    {children}
   </section>
 );
 

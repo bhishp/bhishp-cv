@@ -1,4 +1,5 @@
-import React  from 'react';
+import React from 'react';
+import { OpenSourceBody } from './components/OpenSourceBody/OpenSourceBody';
 import { Data } from './types/data';
 
 import './bootstrap-font-awesome';
@@ -13,7 +14,7 @@ const typedData = data as Data;
 
 const {
   forename, surname, profession, number, email,
-  sections: { experience, education, aboutMe }
+  sections: { experience, oss, education, aboutMe }
 } = typedData;
 
 const headerProps = { forename, surname, profession, number, email, headshot };
@@ -24,6 +25,9 @@ const App: React.FunctionComponent = () => (
       <CVHeader {...headerProps} />
       <div className="CVContent">
         <CVSection id="experience" {...experience} />
+        <CVSection id="open-source" {...oss}>
+          <OpenSourceBody />
+        </CVSection>
         <CVSection id="education" {...education} />
         <CVSection id="about-me" {...aboutMe} />
       </div>

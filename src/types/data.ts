@@ -50,6 +50,7 @@ export interface Data {
   email: string;
   sections: {
     experience: Section;
+    oss: Section;
     education: Section;
     aboutMe: Section;
   };

@@ -18,6 +18,7 @@ const Nav = () => (
   <nav className="Nav">
     <ul>
       <li><a href="#experience">Experience</a></li>
+      <li><a href="#open-source">Open Source</a></li>
       <li><a href="#education">Education</a></li>
       <li><a href="#about-me">About Me</a></li>
     </ul>

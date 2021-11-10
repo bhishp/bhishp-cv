@@ -1,5 +1,5 @@
 @value shared: "../../style/shared.css";
-@value outerspace, havelockblue, quillgray, white, headingfont from shared;
+@value outerspace, havelockblue, quillgray, white, headingfont, linkblue from shared;
 
 .Article {
   padding: 10px 0;
@@ -76,4 +76,15 @@
 }
 .Article-icons li > img {
   width: 1.9rem;
+}
+
+.oss-meta {
+  margin: 0;
+  list-style-type: none;
+  padding-left: 0;
+  font-size: 0.9rem;
+}
+
+.oss-meta a {
+  color: linkblue;
 }
