@@ -11,9 +11,10 @@ import CVIcon from '../CVIcon/CVIcon';
 const CVSection: React.FunctionComponent<Section> = ({
   heading,
   icon,
-  articles = []
+  articles = [],
+  ...props
 }) => (
-  <section className="Section">
+  <section className="Section" {...props}>
     <header className="Section-header">
       <div className="Section-heading">
         <CVIcon {...icon} />

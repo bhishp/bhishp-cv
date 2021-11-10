@@ -1,4 +1,5 @@
 import { IconName as FAIconName } from '@fortawesome/free-solid-svg-icons';
+import React from 'react';
 
 export enum HeadingIcon {
   ATOS = 'atos',
@@ -54,7 +55,7 @@ export interface Data {
   };
 }
 
-export interface Section {
+export interface Section extends React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> {
   heading: string;
   icon: FAIcon;
   articles: Article[];

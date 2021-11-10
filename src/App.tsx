@@ -23,9 +23,9 @@ const App: React.FunctionComponent = () => (
     <div className="CVWrapper">
       <CVHeader {...headerProps} />
       <div className="CVContent">
-        <CVSection {...experience} />
-        <CVSection {...education} />
-        <CVSection {...aboutMe} />
+        <CVSection id="experience" {...experience} />
+        <CVSection id="education" {...education} />
+        <CVSection id="about-me" {...aboutMe} />
       </div>
       <footer className="CVFooter">
         <span>Bebas font courtesy of: <a href="http://bebasfont.com/">http://bebasfont.com/</a></span>

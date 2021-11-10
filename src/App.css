@@ -1,5 +1,13 @@
 @value shared: "./style/shared.css";
-@value outerspace, havelockblue, quillgray, white, scorpion from shared;
+@value outerspace, havelockblue, quillgray, white, scorpion, linkblue from shared;
+
+html {
+  scroll-behavior: smooth;
+}
+
+a, a:visited, a:link {
+  color: linkblue;
+}
 
 .CV {
   background-color: scorpion;
