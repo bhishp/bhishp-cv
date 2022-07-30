@@ -1,7 +1,7 @@
 {
-  "main.css": "/bhishp-cv/static/css/main.09f6e820.chunk.css",
-  "main.js": "/bhishp-cv/static/js/main.75622586.chunk.js",
-  "main.js.map": "/bhishp-cv/static/js/main.75622586.chunk.js.map",
+  "main.css": "/bhishp-cv/static/css/main.c7b1dd6d.chunk.css",
+  "main.js": "/bhishp-cv/static/js/main.26bb2c37.chunk.js",
+  "main.js.map": "/bhishp-cv/static/js/main.26bb2c37.chunk.js.map",
   "static/js/1.985705d2.chunk.js": "/bhishp-cv/static/js/1.985705d2.chunk.js",
   "static/js/1.985705d2.chunk.js.map": "/bhishp-cv/static/js/1.985705d2.chunk.js.map",
   "runtime~main.js": "/bhishp-cv/static/js/runtime~main.4b929f44.js",
@@ -35,8 +35,8 @@
   "static/media/gql-codegen.png": "/bhishp-cv/static/media/gql-codegen.f84d863b.png",
   "static/media/bhish-superman.png": "/bhishp-cv/static/media/bhish-superman.51092ddc.png",
   "static/media/index.css": "/bhishp-cv/static/media/BEBAS.7d3d597a.ttf",
-  "static/css/main.09f6e820.chunk.css.map": "/bhishp-cv/static/css/main.09f6e820.chunk.css.map",
+  "static/css/main.c7b1dd6d.chunk.css.map": "/bhishp-cv/static/css/main.c7b1dd6d.chunk.css.map",
   "index.html": "/bhishp-cv/index.html",
-  "precache-manifest.95d7a769d1011086fa9326e0468124d5.js": "/bhishp-cv/precache-manifest.95d7a769d1011086fa9326e0468124d5.js",
+  "precache-manifest.858b350e0f3cd6d411fa6ebc344f009d.js": "/bhishp-cv/precache-manifest.858b350e0f3cd6d411fa6ebc344f009d.js",
   "service-worker.js": "/bhishp-cv/service-worker.js"
 }
